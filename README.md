@@ -1,2 +1,2 @@
-# pinscher-engine
-An open-source game engine made in c++
+# Pinscher engine
+> An *Open-Source* game engine made in c++
